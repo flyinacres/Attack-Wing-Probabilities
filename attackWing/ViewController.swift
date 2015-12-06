@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  xWing
+//  attackWing
 //
 //  Created by Ronald Fischer on 11/7/15.
 //  Copyright © 2015 qpiapps. All rights reserved.
